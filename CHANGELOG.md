@@ -7,6 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.0](https://github.com/symposium-dev/symposium/compare/symposium-v0.2.1...symposium-v0.3.0) - 2026-05-11
+
+### Fixed
+
+- *(doc)* Add GitHub and Zulip links.
+
+### Other
+
+- Merge pull request #203 from jlizen/clippy/collapsible-if-and-plugins-misc
+- Merge pull request #205 from jlizen/clippy/trivial-mechanical
+- Merge pull request #202 from jlizen/main
+- Refactor installation schema, again
+- Refactor hook installation schema
+- Add ability to resolve hooks using distributions.
+- Merge pull request #192 from anaslimem/claude-updated-input-json
+
 ## [0.2.1](https://github.com/symposium-dev/symposium/compare/symposium-v0.2.0...symposium-v0.2.1) - 2026-04-21
 
 ### Other
